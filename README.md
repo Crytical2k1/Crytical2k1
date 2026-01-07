@@ -1,7 +1,7 @@
 ## Embedded Systems Engineer (Aspiring) as a Physicist
 
 🔧 Focus: Bare-metal, RTOS, MCU drivers, low-level C  
-🧠 Currently learning: C basics, git workflow 
+🧠 Currently learning: C basics, git workflow  
 📍 Tools: C, C++, Arduino, PlatformIO, Git
 
 ### Core Skills
