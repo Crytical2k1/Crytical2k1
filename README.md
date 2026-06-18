@@ -10,9 +10,19 @@
 - RTOS concepts (tasks, queues, semaphores)
 - Debugging with GDB & logic analyzers
 
-### Featured Projects
-- Project 1...
-- Project 2...
+### Embedded Systems Projects
+
+#### ESP32 Sensor Telemetry System
+- FreeRTOS architecture
+- Queue-based communication
+- WiFi telemetry server
+- Sensor abstraction layer
+
+#### Tilt Monitoring System
+- IMU integration
+- Threshold-based alerts
+- UART telemetry
+- Real-time status indication
 
 ### Learning Philosophy
 Understanding how hardware and software interact with each other by putting it into practice giving it a physical view.
