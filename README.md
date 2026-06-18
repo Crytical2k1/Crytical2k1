@@ -10,6 +10,9 @@
 - RTOS concepts (tasks, queues, semaphores)
 - Debugging with GDB & logic analyzers
 
+### Learning Philosophy
+Understanding how hardware and software interact with each other by putting it into practice giving it a physical view.
+
 ### Embedded Systems Projects
 
 #### ESP32 Sensor Telemetry System
@@ -24,5 +27,7 @@
 - UART telemetry
 - Real-time status indication
 
-### Learning Philosophy
-Understanding how hardware and software interact with each other by putting it into practice giving it a physical view.
+### Currently Building
+- Embedded Systems Roadmap
+- ESP32 & STM32 Bare-Metal Drivers
+- FreeRTOS Practice Projects
